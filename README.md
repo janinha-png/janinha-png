@@ -1,10 +1,9 @@
 ## Hi 👋
 # joana vieira
 ![steven universo caindo no universo](https://pa1.aminoapps.com/7466/ec3b1e9d54471847efd15033cbdf269c9b4c3ed4r1-356-200_hq.gif "steven universo caindo no universo.")
-<!--
-*pode me chamar de jo* 
+<!-- 
 **janinha-png/janinha-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://www.google.com/search?q=roblox&rlz=1C1GCEU_pt-BRBR1173&oq=&gs_lcrp=EgZjaHJvbWUqCQgHEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQk1OTU5ajBqMTWoAgiwAgHxBX-cHipafO9D&sourceid=chrome&ie=UTF-8
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
