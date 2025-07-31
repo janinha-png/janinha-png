@@ -7,4 +7,4 @@
 <br>
 ## Links
 
-You may be using [Markdown Live Preview](https://www.roblox.com//).
+You may be using [Markdown Live Preview][https://www.roblox.com//].
